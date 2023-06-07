@@ -1,0 +1,73 @@
+[{
+    "_id": {
+        "$oid": "647efd00ddb975a30dbac3fc"
+    },
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "johndoe@example.com",
+    "password": "$2b$10$G7mm.Nyt0F/xaONg9zwkP.7ON8.SZQ2kgqIkOclBbpJZgJ81wfI/C",
+    "__v": 0
+}, {
+    "_id": {
+        "$oid": "647efd28ddb975a30dbac3ff"
+    },
+    "first_name": "Vivek Kumar",
+    "last_name": "Jha",
+    "email": "test@example.com",
+    "password": "$2b$10$4IHtO3y2RHtsFLvQ3Bm/AOZqIxAUjwmEiVqco1CT6Ru0rp0ZNk6da",
+    "__v": 0
+}, {
+    "_id": {
+        "$oid": "647efdffbc625f6b645c8ac8"
+    },
+    "first_name": "Vivek Kumar",
+    "last_name": "Jha",
+    "email": "tet@example.com",
+    "password": "$2b$10$j0IxLPnUcHo1XiRTuSaQ4OX7mNwaO1vUl5u52Ti6N1dJ3yucxnAZ.",
+    "__v": 0
+}, {
+    "_id": {
+        "$oid": "647f02b80a0beb3b1ef0435b"
+    },
+    "first_name": "Vivek Kumar",
+    "last_name": "Jha",
+    "email": "testing@example.com",
+    "password": "$2b$10$Ut6HUfY2ABYqtpLxBWbXGeM1qUYCm8.Dnz.q6/5/1p5wmGfnAdQJW",
+    "__v": 0
+}, {
+    "_id": {
+        "$oid": "647f0438311e3c379d83ae9c"
+    },
+    "first_name": "Vivek Kumar",
+    "last_name": "Jha",
+    "email": "testin@example.com",
+    "password": "$2b$10$riw0bTnb6.YPddioTQ0ipuaouRH01CZfdqc235qHhiQsWGQDMZL5u",
+    "__v": 0
+}, {
+    "_id": {
+        "$oid": "647f04bcd27f47f48f9cf5ef"
+    },
+    "first_name": "Vivek Kumar",
+    "last_name": "Jha",
+    "email": "testi@example.com",
+    "password": "$2b$10$m.OKCvYxP.qg.mDaftCEkO.wk4Pijb8iDsLF6MKm8ZDGtD/Oio8JW",
+    "__v": 0
+}, {
+    "_id": {
+        "$oid": "647f04bcd27f47f48f9cf5f1"
+    },
+    "first_name": null,
+    "last_name": null,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjQ3ZjA0YmNkMjdmNDdmNDhmOWNmNWVmIiwiZW1haWwiOiJUZXN0aUBleGFtcGxlLmNvbSIsImlhdCI6MTY4NjA0NTg4NCwiZXhwIjoxNjg2MDUzMDg0fQ.-UAclbA-7Z4ShXmif4yw_ViDjsUaeWd1nUpmNjCkna0",
+    "__v": 0
+}, {
+    "_id": {
+        "$oid": "647f05a5ee70fbf81420496a"
+    },
+    "first_name": "Vivek Kumar",
+    "last_name": "Jha",
+    "email": "esti@example.com",
+    "password": "$2b$10$fDv1yyr7kIXOIPTxI1WSZuLkevlBlgzZWihMO04UEZGyxXFvdzbpy",
+    "__v": 0,
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNjQ3ZjA1YTVlZTcwZmJmODE0MjA0OTZhIiwiZW1haWwiOiJlc3RpQGV4YW1wbGUuY29tIiwiaWF0IjoxNjg2MDQ2MTE3LCJleHAiOjE2ODYwNTMzMTd9.9lj5nNtQC2ULnt08vVaGcAUe0Be6sbGThgmErUIiY_E"
+}]
